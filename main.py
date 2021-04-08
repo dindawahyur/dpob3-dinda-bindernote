@@ -6,11 +6,11 @@ from tkinter import messagebox
 
 root = Tk()
 
-# inisialisasi list yang dibutuhkan 
+# inisialisasi list yang dibutuhkan
 data = []
 location = []
 
-# isi data
+# isi data pertama
 data.append(Form("Dinda", "089678848274", 20,
                  "notebook", "Plain", "Hard Cover", "images/chinese_tom.jpg"))
 
